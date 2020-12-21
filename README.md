@@ -1,4 +1,4 @@
-rippled-subtrees
+divvyd-subtrees
 ================
 
-Ripple forks of external repositories
+Divvy forks of external repositories
